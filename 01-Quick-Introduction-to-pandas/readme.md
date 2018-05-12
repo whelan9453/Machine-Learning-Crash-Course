@@ -1,4 +1,4 @@
-##Learning Objectives:
+## Learning Objectives:
 
 - Gain an introduction to the DataFrame and Series data structures of the pandas library
 - Access and manipulate data within a DataFrame and Series
